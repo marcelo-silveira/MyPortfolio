@@ -1,3 +1,15 @@
 <resources>
+    <!-- region App -->
     <string name="app_name">PortfolioApp</string>
+    <!-- endregion -->
+
+    <!-- region Menu Bottom Navigation -->
+    <string name="menu_title_monster">Monsters</string>
+    <string name="menu_title_menu">Menu</string>
+    <!-- endregion -->
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
 </resources>
